@@ -1,6 +1,5 @@
 import "package:flutter/material.dart";
 
-import "../widgets/NewsTile.dart";
 import "../widgets/NewsTile_listview.dart";
 import "../widgets/categories_listview.dart";
 
